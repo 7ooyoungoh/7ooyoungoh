@@ -207,7 +207,7 @@ Email: [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu) <b
 Social Media: [LinkedIn](www.linkedin.com/in/7ooyoungoh), [Instagram](https://www.instagram.com/7oo.oh/), [Discord](http://discordapp.com/users/Jooyoung#7707) <br />
 Portfolio Website: [ In Production ]() <br />
 
-# Have I been busy?
+# My Progress
 
 <table align="center">
     <p align="center">
