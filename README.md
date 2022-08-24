@@ -1,6 +1,6 @@
-# Hi. My name is Jooyoung.
+# Welcome to my GitHub.
 
-I am an undergraduate at Northwestern University studying Computer Science, Industrial Engineering, and Economics. I
+Hi. My name is Jooyoung, and I'm an undergraduate at Northwestern University studying Computer Science, Industrial Engineering, and Economics. I
 seek to continuously develop my experience in software development. Feel free to reach out
 at: [jooyoungoh2026@u.northwestern.edu](jooyoungoh2026@u.northwestern.edu)!
 
