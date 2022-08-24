@@ -10,6 +10,13 @@ at: [jooyoungoh2026@u.northwestern.edu](jooyoungoh2026@u.northwestern.edu)!
     <tr>
         <img
                 align="left"
+                src="https://github-readme-stats.vercel.app/api/top-langs?username=7ooyoungoh&show_icons=true&locale=en&theme=react&hide_border=True"
+                alt="7ooyoungoh"
+        />
+    </tr>
+    <tr>
+        <img
+                align="left"
                 src="https://github-readme-stats.vercel.app/api?username=7ooyoungoh&theme=react&hide_border=true)"
                 alt="7ooyoungoh"
         />
@@ -19,13 +26,7 @@ at: [jooyoungoh2026@u.northwestern.edu](jooyoungoh2026@u.northwestern.edu)!
                 alt="7ooyoungoh"
         />
     </tr>
-    <tr>
-    <img
-            align="center"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=7ooyoungoh&show_icons=true&locale=en&theme=react&hide_border=True"
-            alt="7ooyoungoh"
-    />
-</tr>
+
 </table>
 
 # Technologies
@@ -218,7 +219,8 @@ at: [jooyoungoh2026@u.northwestern.edu](jooyoungoh2026@u.northwestern.edu)!
 </table>
 
 # Connect With Me
-Address: [2303 Sheridan Rd, Evanston, IL](https://goo.gl/maps/o6XVdvCCsCcaeD31A) <br />
-Email: [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu) <br />
-Social Media: [LinkedIn](www.linkedin.com/in/7ooyoungoh), [Instagram](https://www.instagram.com/7oo.oh/), [Discord](http://discordapp.com/users/Jooyoung#7707) <br />
-Portfolio Website: [ Work in Production ]() <br />
+Address: [2303 Sheridan Rd, Evanston, IL](https://goo.gl/maps/o6XVdvCCsCcaeD31A) <br/>
+Email: [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu) <br/>
+Social Media: [LinkedIn](www.linkedin.com/in/7ooyoungoh), [Instagram](https://www.instagram.com/7oo.oh/), [Discord](http://discordapp.com/users/Jooyoung#7707)
+<br/>
+Portfolio Website: [ Work in Production ]() <br/>
