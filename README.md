@@ -219,6 +219,6 @@ at: [jooyoungoh2026@u.northwestern.edu](jooyoungoh2026@u.northwestern.edu)!
 </p>
 
 # Connect With Me
-Email: [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu) <br />
+Address: [2303 Sheridan Rd, Evanston, IL](https://goo.gl/maps/o6XVdvCCsCcaeD31A) <br />
 Social Media: [LinkedIn](www.linkedin.com/in/7ooyoungoh), [Instagram](https://www.instagram.com/7oo.oh/), [Discord](http://discordapp.com/users/Jooyoung#7707) <br />
 Portfolio Website: [ Work in Production ]() <br />
