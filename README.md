@@ -1,4 +1,4 @@
-# Hi. I'm Jooyoung.
+# Hi. My name is Jooyoung.
 
 I am an undergraduate at Northwestern University studying Computer Science, Industrial Engineering, and Economics. I
 seek to continuously develop my experience in software development. Feel free to reach out
