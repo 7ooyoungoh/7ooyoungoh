@@ -4,6 +4,23 @@ Hi. My name is Jooyoung, and I'm an undergraduate at Northwestern University stu
 seek to continuously develop my experience in software development. Feel free to reach out
 at: [jooyoungoh2026@u.northwestern.edu](jooyoungoh2026@u.northwestern.edu)!
 
+# My Progress
+
+<table>
+    <p>
+        <img
+                align="left"
+                src="https://github-readme-stats.vercel.app/api?username=7ooyoungoh&theme=react&hide_border=true)"
+                alt="7ooyoungoh"
+        />
+        <img
+                align="right"
+                src="https://github-readme-streak-stats.herokuapp.com/?user=7ooyoungoh&layout=compact&theme=react&hide_border=true"
+                alt="7ooyoungoh"
+        />
+    </p>
+</table>
+
 # I'm familiar with
 
 <table>
@@ -206,20 +223,3 @@ Address: [2303 Sheridan Rd, Evanston, IL](https://goo.gl/maps/o6XVdvCCsCcaeD31A)
 Email: [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu) <br />
 Social Media: [LinkedIn](www.linkedin.com/in/7ooyoungoh), [Instagram](https://www.instagram.com/7oo.oh/), [Discord](http://discordapp.com/users/Jooyoung#7707) <br />
 Portfolio Website: [ In Production ]() <br />
-
-# My Progress
-
-<table>
-    <p>
-        <img
-                align="left"
-                src="https://github-readme-stats.vercel.app/api?username=7ooyoungoh&theme=react&hide_border=true)"
-                alt="7ooyoungoh"
-        />
-        <img
-                align="right"
-                src="https://github-readme-streak-stats.herokuapp.com/?user=7ooyoungoh&layout=compact&theme=react&hide_border=true"
-                alt="7ooyoungoh"
-        />
-    </p>
-</table>
