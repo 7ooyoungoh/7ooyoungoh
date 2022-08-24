@@ -193,33 +193,21 @@ at: [jooyoungoh2026@u.northwestern.edu](jooyoungoh2026@u.northwestern.edu)!
     </tr>
 </table>
 
-<p>
+<table>
     <img
             align="left"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=7ooyoungoh&layout=compact&show_icons=true&locale=en&theme=react&hide_border=True"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=7ooyoungoh&show_icons=true&locale=en&theme=react&hide_border=True"
             alt="7ooyoungoh"
     />
-</p>
+<img
+                align="left"
+                src="https://github-readme-stats.vercel.app/api?username=7ooyoungoh&theme=react&hide_border=true)"
+                alt="7ooyoungoh"
+        />
+</table>
 
 # Connect With Me
 Address: [2303 Sheridan Rd, Evanston, IL](https://goo.gl/maps/o6XVdvCCsCcaeD31A) <br />
 Email: [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu) <br />
 Social Media: [LinkedIn](www.linkedin.com/in/7ooyoungoh), [Instagram](https://www.instagram.com/7oo.oh/), [Discord](http://discordapp.com/users/Jooyoung#7707) <br />
 Portfolio Website: [ In Production ]() <br />
-
-# My Progress
-
-<table>
-    <p>
-        <img
-                align="left"
-                src="https://github-readme-stats.vercel.app/api?username=7ooyoungoh&theme=react&hide_border=true)"
-                alt="7ooyoungoh"
-        />
-        <img
-                align="left"
-                src="https://github-readme-streak-stats.herokuapp.com/?user=7ooyoungoh&layout=compact&theme=react&hide_border=true"
-                alt="7ooyoungoh"
-        />
-    </p>
-</table>
