@@ -193,7 +193,7 @@ at: [jooyoungoh2026@u.northwestern.edu](jooyoungoh2026@u.northwestern.edu)!
     </tr>
 </table>
 
-# Here's My Progress
+# Here's my progress
 <table>
     <img
             align="left"
@@ -213,7 +213,7 @@ at: [jooyoungoh2026@u.northwestern.edu](jooyoungoh2026@u.northwestern.edu)!
 </table>
 
 
-# Connect With Me
+# Connect with me
 Address: [2303 Sheridan Rd, Evanston, IL](https://goo.gl/maps/o6XVdvCCsCcaeD31A) <br />
 Email: [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu) <br />
 Social Media: [LinkedIn](www.linkedin.com/in/7ooyoungoh), [Instagram](https://www.instagram.com/7oo.oh/), [Discord](http://discordapp.com/users/Jooyoung#7707) <br />
