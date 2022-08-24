@@ -217,7 +217,7 @@ Portfolio Website: [ In Production ]() <br />
                 alt="7ooyoungoh"
         />
         <img
-                align="right"
+                align="left"
                 src="https://github-readme-streak-stats.herokuapp.com/?user=7ooyoungoh&layout=compact&theme=react&hide_border=true"
                 alt="7ooyoungoh"
         />
