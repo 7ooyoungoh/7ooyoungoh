@@ -7,7 +7,7 @@ at: [jooyoungoh2026@u.northwestern.edu](jooyoungoh2026@u.northwestern.edu)!
 # My Progress
 
 <table>
-    <p>
+    <tr>
         <img
                 align="left"
                 src="https://github-readme-stats.vercel.app/api?username=7ooyoungoh&theme=react&hide_border=true)"
@@ -18,7 +18,7 @@ at: [jooyoungoh2026@u.northwestern.edu](jooyoungoh2026@u.northwestern.edu)!
                 src="https://github-readme-streak-stats.herokuapp.com/?user=7ooyoungoh&layout=compact&theme=react&hide_border=true"
                 alt="7ooyoungoh"
         />
-    </p>
+    </tr>
 </table>
 
 # I'm familiar with
