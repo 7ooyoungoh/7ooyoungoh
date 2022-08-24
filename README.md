@@ -1,10 +1,10 @@
-# Welcome
+# Hi. I'm Jooyoung.
 
 I am an undergraduate at Northwestern University studying Computer Science, Industrial Engineering, and Economics. I
 seek to continuously develop my experience in software development. Feel free to reach out
 at: [jooyoungoh2026@u.northwestern.edu](jooyoungoh2026@u.northwestern.edu)!
 
-# Technologies
+# I'm familiar with:
 
 <table>
     <tr>
