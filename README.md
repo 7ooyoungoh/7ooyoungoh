@@ -25,7 +25,7 @@ at: [jooyoungoh2026@u.northwestern.edu](jooyoungoh2026@u.northwestern.edu)!
                 src="https://github-readme-streak-stats.herokuapp.com/?user=7ooyoungoh&layout=compact&theme=react&hide_border=true"
                 alt="7ooyoungoh"
         />
-    </tr>
+    </tr> <br />
 
 </table>
 
