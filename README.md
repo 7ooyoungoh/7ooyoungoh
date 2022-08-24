@@ -1,10 +1,10 @@
-# Welcome to my GitHub.
+# Welcome to my GitHub
 
 Hi. My name is Jooyoung, and I'm an undergraduate at Northwestern University studying Computer Science, Industrial Engineering, and Economics. I
 seek to continuously develop my experience in software development. Feel free to reach out
 at: [jooyoungoh2026@u.northwestern.edu](jooyoungoh2026@u.northwestern.edu)!
 
-# I'm familiar with:
+# I'm familiar with
 
 <table>
     <tr>
@@ -206,7 +206,7 @@ Address: [2303 Sheridan Rd, Evanston, IL](https://goo.gl/maps/o6XVdvCCsCcaeD31A)
 Social Media: [LinkedIn](www.linkedin.com/in/7ooyoungoh), [Instagram](https://www.instagram.com/7oo.oh/), [Discord](http://discordapp.com/users/Jooyoung#7707) <br />
 Portfolio Website: [ In Production ]() <br />
 
-# Activity
+# Have I been busy?
 
 <table align="center">
     <p align="center">
