@@ -6,7 +6,7 @@ at: [jooyoungoh2026@u.northwestern.edu](jooyoungoh2026@u.northwestern.edu)!
 
 # Activity
 
-<table>
+<table align="center">
     <p>
         <img
                 align="center"
