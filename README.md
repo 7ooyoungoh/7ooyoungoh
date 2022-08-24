@@ -209,15 +209,15 @@ Portfolio Website: [ In Production ]() <br />
 
 # My Progress
 
-<table align="center">
-    <p align="center">
+<table>
+    <p>
         <img
-                align="center"
+                align="left"
                 src="https://github-readme-stats.vercel.app/api?username=7ooyoungoh&theme=react&hide_border=true)"
                 alt="7ooyoungoh"
         />
         <img
-                align="center"
+                align="right"
                 src="https://github-readme-streak-stats.herokuapp.com/?user=7ooyoungoh&layout=compact&theme=react&hide_border=true"
                 alt="7ooyoungoh"
         />
