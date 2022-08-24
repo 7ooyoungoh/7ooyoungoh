@@ -193,7 +193,6 @@ at: [jooyoungoh2026@u.northwestern.edu](jooyoungoh2026@u.northwestern.edu)!
     </tr>
 </table>
 
-<table>
 <td>
 <p>
 
@@ -212,7 +211,6 @@ Portfolio Website: [ In Production ]() <br />
     />
 </p>
 </td>
-</table>
 
 # Activity
 
