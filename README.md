@@ -7,7 +7,7 @@ at: [jooyoungoh2026@u.northwestern.edu](jooyoungoh2026@u.northwestern.edu)!
 # Activity
 
 <table align="center">
-    <p>
+    <p align="center">
         <img
                 align="center"
                 src="https://github-readme-stats.vercel.app/api?username=7ooyoungoh&theme=react&hide_border=true)"
