@@ -194,6 +194,7 @@ at: [jooyoungoh2026@u.northwestern.edu](jooyoungoh2026@u.northwestern.edu)!
 </table>
 
 # Here's my progress
+<div align="center">
 <table align="center">
     <img
             align="left"
@@ -211,6 +212,7 @@ at: [jooyoungoh2026@u.northwestern.edu](jooyoungoh2026@u.northwestern.edu)!
                 alt="7ooyoungoh"
         />
 </table>
+</div>
 
 
 # Connect with me
