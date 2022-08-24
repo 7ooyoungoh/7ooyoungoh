@@ -193,7 +193,7 @@ at: [jooyoungoh2026@u.northwestern.edu](jooyoungoh2026@u.northwestern.edu)!
     </tr>
 </table>
 
-# My Progress
+# Here's My Progress
 <table>
     <img
             align="left"
