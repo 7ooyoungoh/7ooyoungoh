@@ -193,7 +193,7 @@ at: [jooyoungoh2026@u.northwestern.edu](jooyoungoh2026@u.northwestern.edu)!
     </tr>
 </table>
 
-<table>
+<div>
     <img
             align="left"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=7ooyoungoh&show_icons=true&locale=en&theme=react&hide_border=True"
@@ -204,7 +204,7 @@ at: [jooyoungoh2026@u.northwestern.edu](jooyoungoh2026@u.northwestern.edu)!
                 src="https://github-readme-stats.vercel.app/api?username=7ooyoungoh&theme=react&hide_border=true)"
                 alt="7ooyoungoh"
         />
-</table>
+</div>
 
 # Connect With Me
 Address: [2303 Sheridan Rd, Evanston, IL](https://goo.gl/maps/o6XVdvCCsCcaeD31A) <br />
