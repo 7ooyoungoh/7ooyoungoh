@@ -197,7 +197,7 @@ at: [jooyoungoh2026@u.northwestern.edu](jooyoungoh2026@u.northwestern.edu)!
 <table align="center">
     <img
             align="left"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=7ooyoungoh&show_icons=true&locale=en&theme=react&hide_border=True"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=7ooyoungoh&show_icons=true&layout=compact&locale=en&theme=react&hide_border=True"
             alt="7ooyoungoh"
     />
 <img
