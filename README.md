@@ -174,6 +174,12 @@ to me at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
     </tr>
 </table>
 
+# Learn more about me
+- Email: [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu)
+- Social Media: [LinkedIn](www.linkedin.com/in/7ooyoungoh), [Instagram](https://www.instagram.com/7oo.oh/), [Discord](http://discordapp.com/users/Jooyoung#7707)
+- Portfolio Website: [ In Production ]()
+- Resume: [ In Production ]()
+
 # Here's my progress
 <table align="center">
     <img
@@ -192,9 +198,3 @@ to me at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
             alt="7ooyoungoh"
     />
 </table>
-
-# Learn more about me
-- Email: [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu)
-- Social Media: [LinkedIn](www.linkedin.com/in/7ooyoungoh), [Instagram](https://www.instagram.com/7oo.oh/), [Discord](http://discordapp.com/users/Jooyoung#7707)
-- Portfolio Website: [ In Production ]()
-- Resume: [ In Production ]()
