@@ -9,7 +9,6 @@ at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
 <table>
     <tr>
         <td align="center" height="108" width="108">
-            <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
                 <img
                         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
                         width="48"
@@ -19,7 +18,6 @@ at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
                 <br/><strong>HTML5</strong>
         </td>
         <td align="center" height="108" width="108">
-            <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
                 <img
                         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
                         width="48"
@@ -29,7 +27,6 @@ at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
                 <br/><strong>CSS3</strong>
         </td>
         <td align="center" height="108" width="108">
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
                 <img
                         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
                         width="48"
@@ -39,7 +36,6 @@ at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
                 <br/><strong>JavaScript</strong>
         </td>
         <td align="center" height="108" width="108">
-            <a href="https://www.python.org/" target="_blank" rel="noreferrer">
                 <img
                         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
                         width="48"
@@ -49,7 +45,6 @@ at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
                 <br/><strong>Python</strong>
         </td>
         <td align="center" height="108" width="108">
-            <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
                 <img
                         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
                         width="48"
@@ -59,7 +54,6 @@ at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
                 <br/><strong>C</strong>
         </td>
         <td align="center" height="108" width="108">
-            <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
                 <img
                         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
                         width="48"
@@ -68,9 +62,35 @@ at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
                 />
                 <br/><strong>React</strong>
         </td>
+        <td align="center" height="108" width="108">
+                <img
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+                        width="48"
+                        height="48"
+                        alt="Node.js"
+                />
+                <br/><strong>Node.js</strong>
+        </td>
+        <td align="center" height="108" width="108">
+                <img
+                        src="https://cdn.worldvectorlogo.com/logos/django.svg"
+                        width="48"
+                        height="48"
+                        alt="Django"
+                />
+                <br/><strong>Django</strong>
+        </td>
+        <td align="center" height="108" width="108">
+                <img
+                        src="https://racket-lang.org/img/racket-logo.svg"
+                        width="48"
+                        height="48"
+                        alt="Racket"
+                />
+                <br/><strong>Racket</strong>
+        </td>
     <tr>
         <td align="center" height="108" width="108">
-            <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
                 <img
                         src="https://miro.medium.com/max/300/1*_HZPBJ2WejyvkBDJo1CUwg.png"
                         width="48"
@@ -80,7 +100,6 @@ at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
                 <br/><strong>MongoDB</strong>
         </td>
         <td align="center" height="108" width="108">
-            <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
                 <img
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"
                         width="48"
@@ -90,7 +109,6 @@ at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
                 <br/><strong>SQLite</strong>
         </td>
         <td align="center" height="108" width="108">
-            <a href="https://graphql.org/" target="_blank" rel="noreferrer">
                 <img
                         src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
                         width="48"
@@ -100,7 +118,6 @@ at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
                 <br/><strong>GraphQL</strong>
         </td>
         <td align="center" height="108" width="108">
-            <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
                 <img
                         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
                         width="48"
@@ -110,7 +127,6 @@ at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
                 <br/><strong>Firebase</strong>
         </td>
         <td align="center" height="108" width="108">
-            <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
                 <img
                         src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify"
                         width="48"
@@ -120,7 +136,6 @@ at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
                 <br/><strong>Amplify</strong>
         </td>
         <td align="center" height="108" width="108">
-            <a href="https://heroku.com" target="_blank" rel="noreferrer">
                 <img
                         src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
                         width="48"
@@ -128,6 +143,33 @@ at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
                         alt="Heroku"
                 />
                 <br/><strong>Heroku</strong>
+        </td>
+        <td align="center" height="108" width="108">
+                <img
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+                        width="48"
+                        height="48"
+                        alt="Git"
+                />
+                <br/><strong>Git</strong>
+        </td>
+        <td align="center" height="108" width="108">
+                <img
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+                        width="48"
+                        height="48"
+                        alt="npm"
+                />
+                <br/><strong>npm</strong>
+        </td>
+        <td align="center" height="108" width="108">
+                <img
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"
+                        width="48"
+                        height="48"
+                        alt="MATLAB"
+                />
+                <br/><strong>MATLAB</strong>
         </td>
     </tr>
 </table>
