@@ -184,7 +184,12 @@ to me at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
 <table align="center">
     <img
             align="left"
-            src="https://github-readme-stats.vercel.app/api?username=7ooyoungoh&theme=tokyonight"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=7ooyoungoh&show_icons=true&locale=en&theme=react&hide_border=True"
+            alt="7ooyoungoh"
+    />
+    <img
+            align="left"
+            src="https://github-readme-stats.vercel.app/api?username=7ooyoungoh&theme=react&hide_border=true)"
             alt="7ooyoungoh"
     />
     <img
