@@ -68,36 +68,6 @@ at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
                 />
                 <br/><strong>React</strong>
         </td>
-        <td align="center" height="108" width="108">
-            <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-                <img
-                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-                        width="48"
-                        height="48"
-                        alt="Node.js"
-                />
-                <br/><strong>Node.js</strong>
-        </td>
-        <td align="center" height="108" width="108">
-            <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-                <img
-                        src="https://cdn.worldvectorlogo.com/logos/django.svg"
-                        width="48"
-                        height="48"
-                        alt="Django"
-                />
-                <br/><strong>Django</strong>
-        </td>
-        <td align="center" height="108" width="108">
-            <a href="https://racket-lang.org/" target="_blank" rel="noreferrer">
-                <img
-                        src="https://racket-lang.org/img/racket-logo.svg"
-                        width="48"
-                        height="48"
-                        alt="Racket"
-                />
-                <br/><strong>Racket</strong>
-        </td>
     <tr>
         <td align="center" height="108" width="108">
             <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
@@ -158,36 +128,6 @@ at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
                         alt="Heroku"
                 />
                 <br/><strong>Heroku</strong>
-        </td>
-        <td align="center" height="108" width="108">
-            <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-                <img
-                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-                        width="48"
-                        height="48"
-                        alt="Git"
-                />
-                <br/><strong>Git</strong>
-        </td>
-        <td align="center" height="108" width="108">
-            <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-                <img
-                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
-                        width="48"
-                        height="48"
-                        alt="npm"
-                />
-                <br/><strong>npm</strong>
-        </td>
-        <td align="center" height="108" width="108">
-            <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-                <img
-                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"
-                        width="48"
-                        height="48"
-                        alt="MATLAB"
-                />
-                <br/><strong>MATLAB</strong>
         </td>
     </tr>
 </table>
