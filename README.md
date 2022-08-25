@@ -15,7 +15,7 @@ to me at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
                         height="48"
                         alt="HTML5"
                 />
-                <br/><strong>HTML5</strong>
+                <br/><a strong>HTML5</astrong>
         </td>
         <td align="center" height="108" width="108">
                 <img
@@ -24,7 +24,7 @@ to me at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
                         height="48"
                         alt="CSS3"
                 />
-                <br/><strong>CSS3</strong>
+                <br/><a strong>CSS3</astrong>
         </td>
         <td align="center" height="108" width="108">
                 <img
@@ -33,7 +33,7 @@ to me at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
                         height="48"
                         alt="JavaScript"
                 />
-                <br/><strong>JavaScript</strong>
+                <br/><a strong>JavaScript</astrong>
         </td>
         <td align="center" height="108" width="108">
                 <img
@@ -42,7 +42,7 @@ to me at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
                         height="48"
                         alt="Python"
                 />
-                <br/><strong>Python</strong>
+                <br/><a strong>Python</astrong>
         </td>
         <td align="center" height="108" width="108">
                 <img
@@ -51,7 +51,7 @@ to me at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
                         height="48"
                         alt="C"
                 />
-                <br/><strong>C</strong>
+                <br/><a strong>C</astrong>
         </td>
         <td align="center" height="108" width="108">
                 <img
@@ -60,7 +60,7 @@ to me at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
                         height="48"
                         alt="React"
                 />
-                <br/><strong>React</strong>
+                <br/><a strong>React</astrong>
         </td>
         <td align="center" height="108" width="108">
                 <img
@@ -69,7 +69,7 @@ to me at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
                         height="48"
                         alt="Node.js"
                 />
-                <br/><strong>Node.js</strong>
+                <br/><a strong>Node.js</astrong>
         </td>
         <td align="center" height="108" width="108">
                 <img
@@ -78,7 +78,7 @@ to me at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
                         height="48"
                         alt="Django"
                 />
-                <br/><strong>Django</strong>
+                <br/><a strong>Django</astrong>
         </td>
         <td align="center" height="108" width="108">
                 <img
@@ -87,7 +87,7 @@ to me at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
                         height="48"
                         alt="Racket"
                 />
-                <br/><strong>Racket</strong>
+                <br/><a strong>Racket</astrong>
         </td>
     <tr>
         <td align="center" height="108" width="108">
@@ -97,7 +97,7 @@ to me at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
                         height="48"
                         alt="MongoDB"
                 />
-                <br/><strong>MongoDB</strong>
+                <br/><a strong>MongoDB</astrong>
         </td>
         <td align="center" height="108" width="108">
                 <img
@@ -106,7 +106,7 @@ to me at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
                         height="48"
                         alt="SQLite"
                 />
-                <br/><strong>SQLite</strong>
+                <br/><a strong>SQLite</astrong>
         </td>
         <td align="center" height="108" width="108">
                 <img
@@ -115,7 +115,7 @@ to me at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
                         height="48"
                         alt="GraphQL"
                 />
-                <br/><strong>GraphQL</strong>
+                <br/><a strong>GraphQL</astrong>
         </td>
         <td align="center" height="108" width="108">
                 <img
@@ -124,7 +124,7 @@ to me at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
                         height="48"
                         alt="Firebase"
                 />
-                <br/><strong>Firebase</strong>
+                <br/><a strong>Firebase</astrong>
         </td>
         <td align="center" height="108" width="108">
                 <img
@@ -133,7 +133,7 @@ to me at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
                         height="48"
                         alt="Amplify"
                 />
-                <br/><strong>Amplify</strong>
+                <br/><a strong>Amplify</astrong>
         </td>
         <td align="center" height="108" width="108">
                 <img
@@ -142,7 +142,7 @@ to me at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
                         height="48"
                         alt="Heroku"
                 />
-                <br/><strong>Heroku</strong>
+                <br/><a strong>Heroku</astrong>
         </td>
         <td align="center" height="108" width="108">
                 <img
@@ -151,7 +151,7 @@ to me at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
                         height="48"
                         alt="Git"
                 />
-                <br/><strong>Git</strong>
+                <br/><a strong>Git</astrong>
         </td>
         <td align="center" height="108" width="108">
                 <img
@@ -160,7 +160,7 @@ to me at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
                         height="48"
                         alt="npm"
                 />
-                <br/><strong>npm</strong>
+                <br/><a strong>npm</astrong>
         </td>
         <td align="center" height="108" width="108">
                 <img
@@ -169,7 +169,7 @@ to me at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
                         height="48"
                         alt="MATLAB"
                 />
-                <br/><strong>MATLAB</strong>
+                <br/><a strong>MATLAB</astrong>
         </td>
     </tr>
 </table>
