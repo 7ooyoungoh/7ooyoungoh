@@ -182,6 +182,7 @@ to me at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
 
 # Here's my progress
 <table align="center">
+    <tr>
     <img
             align="left"
             src="https://github-readme-stats.vercel.app/api?username=7ooyoungoh&theme=react&hide_border=true)"
@@ -192,9 +193,12 @@ to me at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
             src="https://github-readme-stats.vercel.app/api/top-langs?username=7ooyoungoh&show_icons=true&locale=en&theme=react&hide_border=True"
             alt="7ooyoungoh"
     />
+    </tr>
+    <tr>
     <img
             align="left"
             src="https://github-readme-streak-stats.herokuapp.com/?user=7ooyoungoh&layout=compact&theme=react&hide_border=true"
             alt="7ooyoungoh"
     />
+    </tr>
 </table>
