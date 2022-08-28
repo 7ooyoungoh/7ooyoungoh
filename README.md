@@ -176,7 +176,7 @@ to me at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
 
 # Learn more about me
 - Email: [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu)
-- Social Media: [LinkedIn](www.linkedin.com/in/jooyoung-oh), [Instagram](www.instagram.com/7oo.oh), [Discord](http://discordapp.com/users/Jooyoung#7707")
+- Social Media: <a href="https://linkedin.com/in/jooyoung-oh" target="_blank">LinkedIn</a>, <a href="https://www.instagram.com/7oo.oh/" target="_blank">Instagram</a>, <a href="http://discordapp.com/users/Jooyoung#7707" target="_blank">Discord</a>
 - Portfolio Website: <a href="https://jooyoungoh.com/" target="_blank">www.jooyoungoh.com </a>
 - Resume: [Click to View](Resume_Jooyoung_Oh.pdf)
 
