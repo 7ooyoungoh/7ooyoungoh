@@ -176,7 +176,7 @@ to me at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
 
 # Learn more about me
 - Email: [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu)
-- Social Media: [LinkedIn](www.linkedin.com/in/7ooyoungoh), [Instagram](https://www.instagram.com/7oo.oh/), [Discord](http://discordapp.com/users/Jooyoung#7707)
+- Social Media: [LinkedIn](www.linkedin.com/in/jooyoung-oh), [Instagram](https://www.instagram.com/7oo.oh/), [Discord](http://discordapp.com/users/Jooyoung#7707)
 - Portfolio Website: [www.jooyoungoh.com](https://jooyoungoh.com/)
 - Resume: <a href="Resume_Jooyoung_Oh.pdf" target="_blank" rel="noopener noreferrer" download="Resume_Jooyoung_Oh">Download</a>
 
@@ -184,17 +184,17 @@ to me at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
 <table align="center">
     <img
             align="left"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=7ooyoungoh&show_icons=true&locale=en&theme=react&hide_border=True"
-            alt="7ooyoungoh"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=joodevs&show_icons=true&locale=en&theme=react&hide_border=True"
+            alt="joodevs"
     />
     <img
             align="left"
-            src="https://github-readme-stats.vercel.app/api?username=7ooyoungoh&theme=react&hide_border=true)"
-            alt="7ooyoungoh"
+            src="https://github-readme-stats.vercel.app/api?username=joodevs&theme=react&hide_border=true)"
+            alt="joodevs"
     />
     <img
             align="left"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=7ooyoungoh&layout=compact&theme=react&hide_border=true"
-            alt="7ooyoungoh"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=joodevs&layout=compact&theme=react&hide_border=true"
+            alt="joodevs"
     />
 </table>
