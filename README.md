@@ -1,8 +1,6 @@
 # Welcome to my GitHub
 
-Hi. My name is Jooyoung, and I'm an undergraduate at Northwestern University studying Computer Science, Industrial Engineering, and Economics. With career interests in software engineering, data science, and quantitative finance, I'm
-seeking to continuously develop my prowess as a software engineer. Please feel free to reach out
-to me at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
+Hi. My name is Jooyoung, and I'm an undergraduate at Northwestern University studying Industrial Engineering and Computer Science. With career interests in software engineering and quantitative finance, I'm seeking to continuously develop my prowess as an engineer. Please feel free to reach out to me at [JooyoungOh2026@u.northwestern.edu](JooyoungOh2026@u.northwestern.edu).
 
 # I'm familiar with
 
